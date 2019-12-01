@@ -9,3 +9,5 @@
 4 Kmeans clusterization
 
 5 Hierarchical clustering
+
+6 Gradient boosting
